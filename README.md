@@ -1,3 +1,2 @@
 # trading
-# -------------------
-me choca usar esta madre no le entiendo
+tendre que buscar un video de como utilizarlo
