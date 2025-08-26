@@ -1,2 +1,3 @@
 # trading
-tendre que buscar un video de como utilizarlo
+per bueno mientras tanto comitt 5 y adios
+
